@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\bin\Debug\net6.0\code002_showSecondOrNull.exe
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\bin\Debug\net6.0\code002_showSecondOrNull.deps.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\bin\Debug\net6.0\code002_showSecondOrNull.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\bin\Debug\net6.0\code002_showSecondOrNull.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\bin\Debug\net6.0\code002_showSecondOrNull.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\refint\code002_showSecondOrNull.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\code002_showSecondOrNull.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code002_showSecondOrNull\obj\Debug\net6.0\ref\code002_showSecondOrNull.dll

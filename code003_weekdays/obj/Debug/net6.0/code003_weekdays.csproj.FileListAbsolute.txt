@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\bin\Debug\net6.0\code003_weekdays.exe
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\bin\Debug\net6.0\code003_weekdays.deps.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\bin\Debug\net6.0\code003_weekdays.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\bin\Debug\net6.0\code003_weekdays.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\bin\Debug\net6.0\code003_weekdays.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\refint\code003_weekdays.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\code003_weekdays.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2nd seminar\code003_weekdays\obj\Debug\net6.0\ref\code003_weekdays.dll
